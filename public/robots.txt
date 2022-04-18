@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+User-agent: *
+=======
+User: *
+>>>>>>> 2e09e2b (Add Crawls and Index)
+Allow: /
